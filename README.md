@@ -9,8 +9,7 @@ The goal of this analysis is to provide actionable insights into patient care, u
   - Operational Efficiency.
   - ​Patient Demographics and Case-Mix.
 - Treatment and Financial Performance.
-
-  # Tools used
+ # Tools used
   - Excel
   - Power query
   - SQL
