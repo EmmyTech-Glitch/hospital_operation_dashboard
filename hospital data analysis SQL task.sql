@@ -1,4 +1,3 @@
---select * from dbo.hospital_data_analysis
 -- top 10 most common diagnosis by patient volume   and Average cost
 select top 10 
 condition, count(patient_id) as patient_volume,
