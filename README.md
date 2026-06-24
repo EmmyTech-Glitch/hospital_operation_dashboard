@@ -9,6 +9,18 @@ The goal of this analysis is to provide actionable insights into patient care, u
   - Operational Efficiency.
   - ​Patient Demographics and Case-Mix.
 - Treatment and Financial Performance.
+
+# Data Source & Description
+
+The dataset used for this analysis was sourced from **[Kaggle.com](https://www.kaggle.com)**. It contains simulated hospital operational records designed to mimic real-world healthcare administration data, capturing patient demographics, clinical conditions, administrative costs, and treatment outcomes.
+
+## Key Features of the Dataset:
+* **Patient Demographics:** Includes unique tracking attributes such as Patient ID, Age, and Gender.
+* **Clinical Records:** Tracks specific medical diagnoses (e.g., Heart Attack, Appendicitis, Cancer) and the procedures administered (e.g., Angioplasty, Appendectomy, Radiation Therapy).
+* **Operational & Metrics Data:** Records critical metrics like **Length of Stay (LOS)** and **Patient Satisfaction Scores**.
+* **Financial Data:** Details the total cost associated with each patient's admission and specific procedures.
+
+
  # Tools used
   - Excel
   - Power query
