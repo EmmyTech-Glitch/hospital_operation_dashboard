@@ -33,5 +33,30 @@ The dataset used for this analysis was sourced from **[Kaggle.com](https://www.k
   - The sumif  function was utilized to calculate the Total cost per medical condition.
   - A pivot Table was constructed from the data to summarize the complex relationship between medical condition amd cost.
 
+## 5. Dashboard Architecture & Visualizations
+
+The Power BI dashboard shown in `1000685496.jpg` utilizes a clean, container-based layout with a cohesive color theme to segment clinical, financial, and operational metrics. The user interface is structured to guide a stakeholder's eye from high-level summaries down to granular departmental insights.
+
+### A. Key Performance Indicators (KPI Cards)
+Positioned horizontally across the top banner for immediate high-level awareness:
+* **Total Patients (984):** Displays the total volume of patient admissions captured in the dataset.
+* **Total Cost ($8M):** Summarizes the overall financial expenditure/revenue across all operations.
+* **Avg Length of Stay (37.66 days):** Tracks operational throughput and bed utilization efficiency.
+* **Avg Satisfaction (3.60):** Measures the quality of patient care and experience.
+* **Avg Cost ($8,367):** Monitors the mean financial impact per patient admission.
+
+### B. Core Visualizations & Analytical Elements
+The main body of the dashboard splits operational volume from financial and clinical outcomes:
+* **Total Patient per Condition (Horizontal Bar Chart):** Breaks down the patient census by medical diagnosis (e.g., Fractured Leg, Heart Attack, Appendicitis) to identify primary drivers of hospital admissions.
+* **Total Patient per Outcome (Column Chart):** Provides a snapshot of clinical efficacy by comparing total volume between distinct discharge categories (e.g., Recovered vs. Stable).
+* **Avg Length of Stay per Condition (Horizontal Bar Chart):** Cross-references operational tracking with clinical conditions to highlight which diagnoses demand the longest recovery times (e.g., Cancer, Prostate Cancer).
+* **Total Cost per Procedure (Horizontal Bar Chart):** Pinpoints the most capital-intensive medical interventions (e.g., Surgery, Radiation Therapy) to support financial budgeting.
+
+### C. Interactive Slicers & Filtering
+Located on the right-hand side panel to allow dynamic, on-the-fly data discovery:
+* **Gender Slicer:** Radio buttons filtering the entire canvas by *Female* or *Male* demographics.
+* **Age Slicer:** A dropdown filter allowing administrators to drill down into specific age groups or cohorts.
+
+
 
   
