@@ -15,6 +15,11 @@ The goal of this analysis is to provide actionable insights into patient care, u
   - SQL
   - Power BI
 
- # Data Cleaning Process
- 
+ # Data Cleaning and preparation Process
+  While the source data was cleaned, a systematic preparation process was executed to transform the data into analytial format:
+  - Conversion of the raw data into a table.
+  - The sumif  function was utilized to calculate the Total cost per medical condition.
+  - A pivot Table was constructed from the data to summarize the complex relationship between medical condition amd cost.
+
+
   
