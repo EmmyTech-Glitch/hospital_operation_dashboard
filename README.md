@@ -86,7 +86,7 @@ To optimize hospital operations and financial health based on these findings, ma
 
 ---
 
-# Conclusion 
+# Conclusion  
 
 This dashboard successfully unifies fragmented hospital operational, financial, and clinical data into a single source of truth. By identifying primary cost centers (Surgeries), bed utilization bottlenecks (Oncology), and throughput volumes, hospital stakeholders can transition from reactive management to data-driven operational planning.
 
