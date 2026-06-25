@@ -34,7 +34,8 @@ The dataset used for this analysis was sourced from **[Kaggle.com](https://www.k
   - A pivot Table was constructed from the data to summarize the complex relationship between medical condition amd cost.
 
 # Dashboard Architecture & Visualizations
-![Hospital Data Analysis Dashboard](hospital_dashboard_preview.jpg)
+![Hospital Data Analysis Dashboard](Hospital_dashboard_screenshot.png
+)
 The Power BI dashboard shown utilizes a clean, container-based layout with a cohesive color theme to segment clinical, financial, and operational metrics. The user interface is structured to guide a stakeholder's eye from high-level summaries down to granular departmental insights.
 
 ## A. Key Performance Indicators (KPI Cards)
