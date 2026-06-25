@@ -28,7 +28,7 @@ The dataset used for this analysis was sourced from **[Kaggle.com](https://www.k
   - Power BI
 
  # Data Cleaning and preparation Process
-  While the source data was cleaned, a systematic preparation process was executed to transform the data into analytial format:
+  While the source data was cleaned, a systematic preparation process was executed to transform the data into analytical format:
   - Conversion of the raw data into a table.
   - The sumif  function was utilized to calculate the Total cost per medical condition.
   - A pivot Table was constructed from the data to summarize the complex relationship between medical condition amd cost.
